@@ -1,0 +1,58 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-image: url(https://free4kwallpapers.com/uploads/originals/2015/07/25/cool-3d-backgrounds-hd-wallpaper-3d-images-3d-backgrounds.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+ h2 {
+    text-align: center;
+    padding: 20px;
+}
+.form{
+    /* background-color: rgba(255,255,255,.5); */
+    /* background-color: rgba(106, 153, 215, 0.1); */
+    background-color: rgba(0,0,0,0.1);
+    width: 350px;
+    margin: 40px 0 0 9vw;
+    color: black;
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 20px;
+    color: white;
+    
+
+}
+#register{
+    margin-left: 50px;
+}
+#name{
+    width: 209px;
+    padding: 3px;
+    border: none;
+    border-radius: 5px;
+}
+#ph{
+    border-radius: 5px;
+    border: none;
+    padding: 2px;
+}
+#phn{
+    width: 156px;
+    padding: 3px;
+    border: none;
+    border-radius: 5px;
+}
+#sub{
+    width: 133px;
+    padding: 4px;
+    border: none;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    border-radius: 7px;
+}
